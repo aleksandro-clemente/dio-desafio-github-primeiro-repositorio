@@ -1,0 +1,11 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Você pode utilizar os comandos básico do linux pelo terminal Git Bash
+ls --> listar arquivos e pastas.
+ls -la --> listar arquivos e pastas ocultos.
+mkdir --> criar uma nova pasta.
+clear --> limpar a o terminal.
+cd "nome da pasta" --> entra na pasta.
+cd .. --> volta para o diretorio anterior.
+pwd --> exibe o diretório atual.
